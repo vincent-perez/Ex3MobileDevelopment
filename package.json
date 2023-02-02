@@ -1,0 +1,20 @@
+{
+  "name": "ex3",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "exercise 3",
+  "main": "exercises",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent-perez/Ex3MobileDevelopment.git"
+  },
+  "author": "Vincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincent-perez/Ex3MobileDevelopment/issues"
+  },
+  "homepage": "https://github.com/vincent-perez/Ex3MobileDevelopment#readme"
+}
